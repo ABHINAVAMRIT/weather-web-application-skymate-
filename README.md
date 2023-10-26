@@ -1,2 +1,21 @@
-# weather-web-application-skymate-
-Create a weather web app using HTML, CSS, and JavaScript to fetch and display real-time weather data from a chosen API, enhancing your web development skills. Don't forget to replace 'YOUR_API_KEY' with your actual key and deploy the app for users to access.
+# ⚡ SkyMate
+ Weather app that fetches real time weather data of any location
+
+![skymate](https://user-images.githubusercontent.com/47467468/84751219-f025e200-afd9-11ea-9815-69c8c836dc99.png)
+
+## Api
+I have used [OpenWeather](https://openweathermap.org/api) api to fetch real time weather data.
+
+## Built with
+html, css, bootstrap and vannila Js
+
+## Demo
+You can see live demo [here](https://skymate.now.sh/).
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
